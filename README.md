@@ -2,6 +2,9 @@
 
 QuickBlog is a full-stack blogging platform that allows users to read, search, and comment on blogs, while providing an admin dashboard for blog management. It features AI-powered content generation, image uploads, and a modern React frontend.
 
+![Screenshot 2025-06-08 125815](https://github.com/user-attachments/assets/b3922da5-45a0-4ab4-b04b-549fda85f3c6)
+
+
 ## Features
 
 - Browse, search, and filter blogs by category
