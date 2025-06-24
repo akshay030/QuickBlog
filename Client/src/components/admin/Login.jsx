@@ -4,8 +4,8 @@ import toast from "react-hot-toast";
 
 const Login = () => {
   const { axios, setToken, navigate } = useAppContext();
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [email, setEmail] = useState("admin@example.com");
+  const [password, setPassword] = useState("admin");
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
